@@ -8,7 +8,7 @@ local c = {
     dark2        = '#931b46',
     dark3        = '#631033',
     dark4        = '#42001f',
-    background   = 'none',
+    background   = '',
 }
 
 local highlights = {
